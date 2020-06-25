@@ -300,6 +300,12 @@ MIT
 @angular/router
 MIT
 
+@angular/forms
+MIT
+
+@angular/animations
+MIT
+
 @angular/cdk
 MIT
 The MIT License
@@ -350,19 +356,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/animations
-MIT
-
-@angular/material/progress-spinner
-
-@angular/forms
-MIT
-
-@angular/material/core
-
-@angular/material/list
+@angular/material/form-field
 
 @angular/material/button
+
+@angular/material/icon
 
 @angular/material/dialog
 
@@ -393,7 +391,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/icon
+@angular/material/core
+
+@angular/material/select
 
 zone.js
 MIT
